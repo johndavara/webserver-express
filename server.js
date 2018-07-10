@@ -40,3 +40,6 @@ app.listen(port, () => {
 });
 
 //npm run nodemon
+// heroku login
+//heroku git:remote -a johnnatan-webpage
+//git push heroku master
